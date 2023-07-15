@@ -16,8 +16,8 @@ class Solution{
 	    if(dp[n]!=n)return dp[n];
 	    
 	    for(int i =1;i<=n; ++i){
-	        for(int j =1;j*j<=n;++j){
-	            if(i-j*j>=0)
+	        for(int j =1;i-(j*j)>=0;++j){
+	           
 	            dp[i]=min(dp[i],1+dp[i-j*j]);
 	        }
 	    }
