@@ -15,7 +15,7 @@ class Solution
     {
         
        stack<int>st;
-        int mid =sizeOfStack/2;
+        int mid =sizeOfStack/2+1;
         
         if(s.size()%2==0){
               
@@ -32,10 +32,9 @@ class Solution
         }
      }
        
-       st.pop();
+       s.pop();
        while(!st.empty()){
            s.push(st.top());
-      
            st.pop();
        }
        
