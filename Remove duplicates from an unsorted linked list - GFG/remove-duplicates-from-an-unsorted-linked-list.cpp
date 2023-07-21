@@ -54,15 +54,11 @@ class Solution
     while (curr != NULL) {
         if (mp.find(curr->data) != mp.end()) {
             prev->next = curr->next;
-            Node* tmp = curr;
-            curr = curr->next;
-            tmp->next = NULL;
-            delete tmp;
         } else {
             mp[curr->data] = true;
             prev = curr;
-            curr = curr->next;
         }
+            curr = curr->next;
     }
 
     return head;
