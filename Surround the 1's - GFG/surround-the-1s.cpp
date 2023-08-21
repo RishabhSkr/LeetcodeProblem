@@ -7,37 +7,34 @@ using namespace std;
 
 class Solution {
 public:
-vector<vector<int>> directions={{1,0},{0,1},{-1,0},{0,-1},{1,1},{1,-1},{-1,1},{-1,-1}};
+
+ vector<vector<int>>dirn = {{0,1},{0,-1},{1,0},{-1,0},{1,1},{-1,-1},{-1,1},{1,-1}};
+
     int Count(vector<vector<int> >& matrix) {
-        int m=matrix.size();
-        int ans=0;
-        int n=matrix[0].size(); 
-       
-        for(int i=0;i<m;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                    if(matrix[i][j]==1)
-                    {
-                        int count=0;
-                    for(auto &v:directions)
-                    {
-                        int x=i+v[0];
-                        int y=j+v[1];
-                        if(x>=0 && x<m && y>=0 &&y<n && matrix[x][y]==0)
-                        {
-                             count++;
+        int maxcnt = 0;
+        int n = matrix.size();
+        int m = matrix[0].size();
+        
+        for(int i =0; i<n; ++i){
+            
+            for(int j = 0; j<m; ++j){
+                
+                
+                if(matrix[i][j]==1){
+                    int cnt =0;
+                    for(auto &dir : dirn){
+                        int x = i +dir[0];
+                        int y = j +dir[1];
+                        if(x>=0&& x<n and y>=0 && y<m and matrix[x][y]==0){
+                            cnt++;
                         }
-                        
                     }
-                    if(count!=0 && count%2==0) ans++;
-                    }
+                if(cnt%2==0 and cnt>0)maxcnt++;
+                }
+                
             }
         }
-            
-        
-        
-        return ans;
+        return maxcnt;
     }
 };
 
