@@ -10,13 +10,16 @@ class Solution{
 public:	
 	
 	
-	int isPalindrome(string S)
+	int isPalindrome(string s)
 	{
-	    for(int i =0,k=S.size()-1;i<k;){
-	        if(S[i++]!=S[k--])return 0;
-	        
+	    // Your code goes here
+	    int i =0 ;
+	    int j = s.length()-1;
+	    while(i<j){
+	        if(s[i]!=s[j])return false;
+	        i++,j--;
 	    }
-	    return 1;
+	    return true;
 	}
 
 };
