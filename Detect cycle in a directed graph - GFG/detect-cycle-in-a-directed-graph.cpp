@@ -5,39 +5,74 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-    // Function to detect cycle in a directed graph.
-   bool dfs(int node, vector<int>adj[], vector<int>& vis, vector<int>& visPath) {
-  vis[node] = 1;
-  visPath[node] = 1;
+//     // Function to detect cycle in a directed graph.
+//   bool dfs(int node, vector<int>adj[], vector<int>& vis, vector<int>& visPath) {
+//   vis[node] = 1;
+//   visPath[node] = 1;
 
-  for (int neighbor : adj[node]) {
-    if (!vis[neighbor]) {
-      if (dfs(neighbor, adj, vis, visPath)) {
-        return true;
-      }
-    } else if (visPath[neighbor]) {
-      return true;
+//   for (int neighbor : adj[node]) {
+//     if (!vis[neighbor]) {
+//       if (dfs(neighbor, adj, vis, visPath)) {
+//         return true;
+//       }
+//     } else if (visPath[neighbor]) {
+//       return true;
+//     }
+//   }
+
+//   visPath[node] = 0;
+//   return false;
+// }
+
+// bool isCyclic(int V, vector<int>graph[]) {
+//   vector<int> vis(V, 0);
+//   vector<int> visPath(V, 0);
+
+//   for (int i = 0; i < V; ++i) {
+//     if (!vis[i]) {
+//       if (dfs(i, graph, vis, visPath)) {
+//         return true;
+//       }
+//     }
+//   }
+
+//   return false;
+// }
+
+    vector<int>vis;
+    vector<int>visPath;
+    
+    bool dfs(int node,vector<int>adj[]){
+        vis[node]=1;
+        visPath[node]=1;
+        
+        for(auto it : adj[node]){
+            
+            if(!vis[it]){
+                // when the node is not visited
+                if(dfs(it,adj)) return true;
+            }
+                // if the node has been previously visited
+			    // but it has to be visited on the same path
+            else if(visPath[it])return true;
+        }
+        visPath[node]=0;
+        return false;
+        
     }
-  }
-
-  visPath[node] = 0;
-  return false;
-}
-
-bool isCyclic(int V, vector<int>graph[]) {
-  vector<int> vis(V, 0);
-  vector<int> visPath(V, 0);
-
-  for (int i = 0; i < V; ++i) {
-    if (!vis[i]) {
-      if (dfs(i, graph, vis, visPath)) {
-        return true;
-      }
-    }
-  }
-
-  return false;
-}
+    bool isCyclic(int V, vector<int> graph[]) {
+        vis.assign(V,0);
+        visPath.assign(V,0);
+        
+        for(int i=0 ;i<V;++i){
+            
+            if(!vis[i]){
+                
+                if(dfs(i,graph)==true)return true;
+            }
+        }
+        return false;        
+    } 
 
 };
 
