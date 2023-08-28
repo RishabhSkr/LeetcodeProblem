@@ -7,31 +7,46 @@ class Solution
 {
 	public:
 	//Function to return list containing vertices in Topological order. 
-	stack<int>st;
-	void dfs( int node, vector<int>adj[],int *vis){
-	   vis[node]=1;
-	   for(auto it : adj[node]){
-	       if(!vis[it]){
-	           dfs(it,adj,vis);
-	       }
-	   }
-	   st.push(node);
-	}
 	vector<int> topoSort(int V, vector<int> adj[]) 
 	{
-	    int vis[V]={0};
-	    for(int i = 0 ;i<V;++i){
-	        if(!vis[i]){
+	    // code here:  Kahn Algorithm
+	    vector<int>ans;
+	    // step 1: calulate indegree of nodes
+	    int indegree[V]={0};
+	    
+	    for(int u = 0 ;u<V ; ++u){
+	        for(auto v : adj[u]){
 	            
-	            dfs(i,adj,vis);
+	                indegree[v]++;
+	            
 	        }
 	    }
-	    vector<int> ans;
-	    while(!st.empty()){
-	        ans.push_back(st.top());
-	        st.pop();
+	    
+	   // step 2: push indegree == 0 in queue 
+	    queue<int>q;
+	    for(int i = 0 ;i<V;i++){
+	        if(indegree[i]==0){
+	            q.push(i);
+	        }
 	    }
+	    
+	   // step 3: pop out all the element who is hae indegree ==0 one by one 
+	   // and make them indepenedent by removing edges and repeate step2;
+	   while(!q.empty()){
+	               
+	       int node = q.front();
+	       q.pop();
+	                
+	       ans.push_back(node);
+	                
+	        for(auto it : adj[node]){
+	           indegree[it]--;
+	           if(indegree[it]==0)q.push(it);
+	        }
+	                
+	   }
 	    return ans;
+	    
 	}
 };
 
