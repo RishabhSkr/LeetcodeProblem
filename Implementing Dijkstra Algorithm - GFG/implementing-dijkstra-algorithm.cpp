@@ -8,36 +8,54 @@ class Solution
 	public:
 	//Function to find the shortest distance of all the vertices
     //from the source vertex S.
-    int getMinVertex(vector<int>& dist, vector<int>& vis, int V) {
-    int minVertex = -1;
-    for (int i = 0; i < V; ++i) {
-        if (!vis[i] && (minVertex == -1 || dist[i] < dist[minVertex])) {
-            minVertex = i;
-        }
-    }
-    return minVertex;
-}
+    
+// int getMinVertex(vector<int>& dist, vector<int>& vis, int V) {
+//         int minVertex = -1;
+//         for (int i = 0; i < V; ++i) {
+//             if (!vis[i] && (minVertex == -1 || dist[i] < dist[minVertex])) {
+//                 minVertex = i;
+//             }
+//         }
+//     return minVertex;
+// }
 
+struct Compare {
+    bool operator()(const pair<int, int>& a, const pair<int, int>& b) {
+        // Define your custom comparison logic here
+        // For example, to create a min-heap based on the second element of the pairs.
+        return a.first < b.first;
+    }
+};
 vector<int> help( vector<vector<int>>adj[], int src, int V) {
+   
     vector<int> vis(V, 0);
     vector<int> dist(V, INT_MAX);
+    
+    priority_queue<int,vector<pair<int,int>>,Compare>que;
+    vis[src]=1;
     dist[src] = 0;
+    que.push({dist[src],src});
 
-    for (int i = 0; i < V; ++i) {
-        int minVertex = getMinVertex(dist, vis, V);
-        vis[minVertex] = 1;
-
-        for (const auto& neighbor : adj[minVertex]) {
+    while(!que.empty()){
+        int dis = que.top().first;
+        int node = que.top().second;
+        que.pop();
+        for (const auto& neighbor : adj[node]) {
             int j = neighbor[0];
             int weight = neighbor[1];
 
-            if (!vis[j] && dist[minVertex] != INT_MAX &&
-                dist[j] > dist[minVertex] + weight) {
-                dist[j] = dist[minVertex] + weight;
+            if (!vis[j] && dist[node] != INT_MAX &&
+                dist[j] > dist[node] + weight) {
+                dist[j] = dist[node] + weight;
+                que.push({dist[j],j});
             }
         }
     }
+    // for (int i = 0; i < V; ++i) {
+    //     int minVertex = getMinVertex(dist, vis, V);
+    //     vis[minVertex] = 1;
 
+    // }
     return dist;
 }
     vector <int> dijkstra(int V, vector<vector<int>> adj[], int S)
