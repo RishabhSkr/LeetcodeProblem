@@ -10,33 +10,61 @@ using namespace std;
 class Solution{
 public:
 
-	
-	int help(int n,int i ,int *arr,int sum){
+    	
+// 	int help(int n,int i ,int *arr,int sum){
 	    
-	    if(i==n){
-	        if(sum == 0)return 1;
-	        return 0;
-	    }
+// 	    if(i==n){
+// 	        if(sum == 0)return 1;
+// 	        return 0;
+// 	    }
 	  
-	   if(sum<0)return 0;
+	  
 	   
-	   // if(dp[i][sum]!=-1)return dp[i][sum];
+// 	   // if(dp[i][sum]!=-1)return dp[i][sum];
 	    
-	    int ans =0;
+// 	    int ans =0;
 	    
-	    ans = help(n,i+1,arr,sum-arr[i]) || help(n,i+1,arr,sum);
+// 	    ans = help(n,i+1,arr,sum-arr[i]) || help(n,i+1,arr,sum);
 	    
-	    return ans;
-	}
+// 	    return ans;
+// 	}
     
     int equalPartition(int N, int arr[])
     {
-        int sum = 0;
-        for(int i  = 0 ;i<N ; ++i){
-            sum += arr[i];
+         int sum = 0;
+    for (int i = 0; i < N; ++i) {
+        sum += arr[i];
+    }
+
+    // If the total sum is odd, it's impossible to divide into two equal partitions.
+    if (sum % 2 != 0) {
+        return false;
+    }
+
+    int targetSum = sum / 2;
+    
+    vector<vector<bool>> dp(N + 1, vector<bool>(targetSum + 1, false));
+    
+    // Base case: If the target sum is 0, we can achieve it by not selecting any elements.
+    for (int i = 0; i <= N; ++i) {
+        dp[i][0] = true;
+    }
+
+    for (int i = 1; i <= N; ++i) {
+        for (int j = 1; j <= targetSum; ++j) {
+            // If the current element (arr[i - 1]) is greater than the current sum (j),
+            // we can't include it in the subset, so the result is the same as without it.
+            if (arr[i - 1] > j) {
+                dp[i][j] = dp[i - 1][j];
+            } else {
+                // We have two options: include the current element or exclude it.
+                dp[i][j] = dp[i - 1][j] || dp[i - 1][j - arr[i - 1]];
+            }
         }
-        if(sum%2!=0)return false;
-      return help(N,0,arr,sum/2);
+    }
+
+    return dp[N][targetSum];
+        
     }
 };
 
