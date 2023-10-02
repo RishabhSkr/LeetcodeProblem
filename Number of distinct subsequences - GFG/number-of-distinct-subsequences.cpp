@@ -23,12 +23,18 @@ class Solution{
     unordered_map<char, int> last_seen;
     
     for(int i =1 ;i<=n; ++i){
-        dp[i]= (2*dp[i-1])%MOD;
+        
+        dp[i]= (2*dp[i-1])%MOD; //// Double the previous count
+        
+        // If the current character has been seen before, subtract the count of subsequences
+        // that end with the previous occurrence of this character
         if(last_seen.find(s[i-1])!=last_seen.end()){
             dp[i]=dp[i] - dp[last_seen[s[i-1]]-1];
         }
+        // update  the curr char last index till found
         last_seen[s[i-1]]=i;
         
+        // make sure ans is in range
         dp[i]=(dp[i]+MOD)%MOD;
     }
     
