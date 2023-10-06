@@ -11,36 +11,63 @@ using namespace std;
 class Solution
 {
   public:
-  long long substrAtMostK(string s,int k){
-        int n = s.size();
+    long long int substrCount (string s, int k) {
+        return countAtmostK(s,k)-countAtmostK(s,k-1);
+        // return countSubs(s,k);
+    }
+    
+    // brute force approach
+    int countSubs(string s,int k){
+        int res = 0;
+    int n = s.length();
+    
+    for (int i = 0; i < n; ++i) {
+        int dist_cnt = 0;
+        int charSet[26] = {0}; // Initialize the character set array
+        
+        for (int j = i; j < n; ++j) {
+            if (charSet[s[j] - 'a'] == 0) {
+                dist_cnt++;
+            }
+            charSet[s[j] - 'a']++;
+            
+            if (dist_cnt == k) {
+                res++;
+            }
+           
+        }
+    }
+    return res;
+    }
+    
+    int countAtmostK(string s, int k){
         int i = 0;
         int j = 0;
-        vector<int> hash(26,0);
-        int cnt = 0;
+        int n = s.length();
+        int charFreq[26] = {0};
+        int dist_cnt = 0;
         int res = 0;
         while(j<n){
-           hash[s[j]-'a']++;
-           if(hash[s[j]-'a']==1){//first time entered in hash so one distinct character enters
-               cnt++;
-           }
-           if(cnt>k){
-               while(cnt>k){
-                   hash[s[i]-'a']--;
-                   if(hash[s[i]-'a']==0){
-                       cnt--;
-                   }
-                   i++;
-               }
-           }
-           res+=(j-i+1);
-           j++;
+            int curr = s[j]-'a';
+            charFreq[curr]++;
+            if(charFreq[curr]==1)dist_cnt++;
+            
+            while(dist_cnt>k){
+                 int prev = s[i] - 'a';
+                charFreq[prev]--;
+                if (charFreq[prev] == 0) {
+                    dist_cnt--;
+                }
+                i++;
+            }
+            
+            res+=j-i+1;
+            j++;
         }
+        
         return res;
     }
-    long long int substrCount (string s, int k) {
-    	//code here.
-    	return substrAtMostK(s,k) - substrAtMostK(s,k-1);
-    }
+    
 };
 
 //{ Driver Code Starts.
