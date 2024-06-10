@@ -1,17 +1,18 @@
 class Solution {
 public:
-    int isPossible(int i, int n, vector<int> &nums, vector<int> &store){
-        if(i==n-1) return 1;
-        if(store[i]!=-1) return store[i];
-        for(int j= i+1; j<=i+nums[i];j++){
-            if(isPossible(j,n,nums,store)) return store[i]=1;
-
-        }
-        return store[i]=0;
+int dp[10001];
+bool solve(int ind,int n,vector<int>&nums){
+    if(ind==n-1)return true;
+    if(nums[ind]==0)return false;
+    if(dp[ind]!=-1)return dp[ind];
+    int reach = ind+nums[ind];
+    for(int steps = ind+1;steps<=reach;++steps){
+        if(steps<n && solve(steps,n,nums))return dp[ind]=true;
     }
+    return dp[ind]=false;
+}
     bool canJump(vector<int>& nums) {
-        vector<int> store(nums.size(),-1);
-        return isPossible(0,nums.size(),nums,store);
-
+        memset(dp,-1,sizeof(dp));
+        return solve(0,nums.size(),nums);
     }
 };
