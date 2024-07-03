@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0416-partition-equal-subset-sum) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,8 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0416-partition-equal-subset-sum) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
