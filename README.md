@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2645-pass-the-pillow) |
 ## Tree
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-cherry-pickup-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1559-cherry-pickup-ii) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
