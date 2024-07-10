@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0494-target-sum) |
 | [1559-cherry-pickup-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1559-cherry-pickup-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
