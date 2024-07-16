@@ -4,19 +4,19 @@ public:
         // n-len(l c palindromic subseq).
         int n=s.size();
         string s1=s;
-        reverse(s1.begin(), s1.end());
-        
-        vector<vector<int>>dp(n+1,vector<int>(n+1, 0));
-        for (int i=0; i<n; i++){
-            for (int j=0; j<n; j++){
-                if (s1[i]==s[j]){
-                    dp[i+1][j+1]=1+dp[i][j];
+        reverse(s.begin(), s.end());
+        string s2=s;
+        vector<int> prev(n+1, 0), curr(n+1, 0);
+        for (int i=1; i<=n; i++){
+            for (int j=1; j<=n; j++){
+                if (s1[i-1]==s2[j-1]){
+                    curr[j]=prev[j-1]+1;
                 }else{
-                    dp[i+1][j+1]= max(dp[i][j+1],dp[i+1][j]);
+                    curr[j]=max(curr[j-1], prev[j]);
                 }
-            }
+            }prev=curr;
         }
-        int palin=dp[n][n];
+        int palin=prev[n];
         int ans=n-palin;
         return ans;
     }
