@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0494-target-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
