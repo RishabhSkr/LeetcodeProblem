@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0518-coin-change-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1559-cherry-pickup-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1559-cherry-pickup-ii) |
 ## Math
 |  |
