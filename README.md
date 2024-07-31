@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0518-coin-change-ii) |
 | [0948-sort-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1170-shortest-common-supersequence) |
+| [1196-filling-bookcase-shelves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1196-filling-bookcase-shelves) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1511-count-number-of-teams) |
