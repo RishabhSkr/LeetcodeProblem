@@ -8,7 +8,7 @@ public:
         sort(mp.rbegin(),mp.rend());
         int ans = 0;
         for(int i =0;i<word.size();++i){
-            if(mp[i]==0)continue;
+            if(mp[i]==0)break;
             ans+=((i/8)+1)*mp[i];
         }
         return ans;
