@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0518-coin-change-ii) |
+| [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1196-filling-bookcase-shelves) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1559-cherry-pickup-ii) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2645-pass-the-pillow) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
