@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0374-guess-number-higher-or-lower) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -286,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
