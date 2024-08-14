@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0307-range-sum-query-mutable](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0416-partition-equal-subset-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1511-count-number-of-teams) |
 ## Sliding Window
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
