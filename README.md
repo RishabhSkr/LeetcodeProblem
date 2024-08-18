@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0002-add-two-numbers) |
+| [0263-ugly-number](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
