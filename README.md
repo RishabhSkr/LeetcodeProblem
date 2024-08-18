@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0322-coin-change) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0948-sort-an-array) |
 ## Merge Sort
