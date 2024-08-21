@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0664-strange-printer) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1196-filling-bookcase-shelves) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0583-delete-operation-for-two-strings) |
+| [0664-strange-printer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [1170-shortest-common-supersequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
