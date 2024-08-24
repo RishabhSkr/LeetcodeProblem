@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0564-find-the-closest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0115-distinct-subsequences) |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
+| [0564-find-the-closest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0664-strange-printer) |
