@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
