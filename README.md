@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
+| [1195-distribute-candies-to-people](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
+| [1195-distribute-candies-to-people](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1195-distribute-candies-to-people) |
 | [1240-stone-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2155-find-missing-observations) |
