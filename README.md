@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0368-largest-divisible-subset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
