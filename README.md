@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0854-making-a-large-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
