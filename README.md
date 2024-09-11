@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0664-strange-printer) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1129-longest-string-chain](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1196-filling-bookcase-shelves) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0322-coin-change) |
 | [0854-making-a-large-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0854-making-a-large-island) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1484-linked-list-in-binary-tree) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1325-path-with-maximum-probability) |
@@ -476,10 +479,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0476-number-complement) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1054-complement-of-base-10-integer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1054-complement-of-base-10-integer) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
