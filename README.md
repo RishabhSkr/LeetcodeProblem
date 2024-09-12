@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
+| [1197-parsing-a-boolean-expression](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1197-parsing-a-boolean-expression) |
 ## Divide and Conquer
 |  |
 | ------- |
