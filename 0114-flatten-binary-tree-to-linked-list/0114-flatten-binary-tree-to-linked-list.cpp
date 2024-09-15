@@ -11,22 +11,26 @@
  */
 class Solution {
 public:
-    TreeNode *prev = NULL;
-    // preorder traversal
- // T.C O(n),S.C ->O(n)
-    void solve(TreeNode* root){
-        if(root==NULL )return;
+ // T.C O(n),S.C ->O(1)
+    void morrisTravesal(TreeNode* root){
+        TreeNode * curr = root;
+        while(curr!=NULL){
+            // find pred
+            if(curr->left!=NULL){
+                TreeNode * pred = curr->left;
+                while(pred->right!=NULL){
+                    pred=pred->right;
+                }
+                pred->right = curr->right;
+                curr->right = curr->left;
+                curr->left = NULL;
 
-        TreeNode*rhead =root->right;
-        if(prev!=NULL){  // 3 node ka tree trace kro solve ho jaega 
-            prev->right = root;
-            prev->left =NULL;
+            }
+            curr=curr->right;
         }
-        prev = root;
-        solve(root->left);
-        solve(rhead);
     }
     void flatten(TreeNode* root) {
-        solve(root);
+        if(root==NULL)return ;
+        morrisTravesal(root);
     }
 };
