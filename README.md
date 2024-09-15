@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
