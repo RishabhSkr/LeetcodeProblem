@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0368-largest-divisible-subset) |
+| [0539-minimum-time-difference](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0948-sort-an-array) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0539-minimum-time-difference](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0650-2-keys-keyboard) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0132-palindrome-partitioning-ii) |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
+| [0539-minimum-time-difference](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0564-find-the-closest-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
