@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0854-making-a-large-island) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1207-delete-nodes-and-return-forest) |
