@@ -59,16 +59,19 @@ public:
 
 };
  int solve(int i ,string &target,TrieNode*root,vector<int>&dp){
+    
     if(i==target.size())return 0;
     if(dp[i]!=-1)return dp[i];
+
     TrieNode*node=root;
     int res = 1e9;
+
     for(int k = i;k<target.size();++k){
         if(!node->containsKey(target[k]))break;
         node=node->gets(target[k]);
-        int t = solve(k+1,target,root,dp);
-        if(t!=1e9)res = min(res,t+1);
+        res = min(res,1+solve(k+1,target,root,dp));
     }
+
     return dp[i]=res;
  }
 
