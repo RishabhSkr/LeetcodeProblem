@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2155-find-missing-observations) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2645-pass-the-pillow](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bitmask
 |  |
