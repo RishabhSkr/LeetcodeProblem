@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0854-making-a-large-island) |
 | [0960-minimize-malware-spread](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0960-minimize-malware-spread) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1207-delete-nodes-and-return-forest) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0854-making-a-large-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0960-minimize-malware-spread](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0960-minimize-malware-spread) |
