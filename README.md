@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0725-split-linked-list-in-parts](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
