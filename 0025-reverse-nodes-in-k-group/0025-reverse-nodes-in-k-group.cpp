@@ -10,77 +10,51 @@
  */
 class Solution {
 public:
-    void reverse(ListNode *s,ListNode *e){
-    ListNode * p=NULL,*c=s,*n=s->next;
-     while(p!=e){
-         c->next=p;
-         p=c;
-         c=n;
-         if(n!=NULL)
-         n=n->next;
-     }
+    // getKthNode
+    ListNode* getKthNode(ListNode* head,int k){
+        k--;
+        while(head!=NULL && k>0){
+            head=head->next;
+            k--;
+        }
+        return head;
+    }
+    // reverse
+    ListNode* reversekNode(ListNode * head){
+        if(head==NULL || head->next==NULL)return head;
+        ListNode * prev = NULL,*curr = head,*nxt = head->next;
+        while(curr!=NULL){
+            nxt = curr->next; // save the nxt node
+            curr->next = prev;
+            prev = curr;
+            curr= nxt;
+        }
+        return prev;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
-     if(head==NULL || head->next==NULL || k==1)return head;
-     ListNode *s=head,*e=head;
-     int x=k-1;
-     while(x--){
-         e=e->next;
-        if(e==NULL) return head;
-     }
-     ListNode * rem=reverseKGroup(e->next,k);
-     reverse(s,e);
-     s->next=rem;
-     return e;
+        if (head == NULL || k == 1) return head; // Base case
+
+        ListNode* dummy = new ListNode(0);
+        dummy->next=head;
+        ListNode *prevGroupEnd = dummy;
+        while(true){
+            // get the kthNode
+            ListNode*kthNode = getKthNode(prevGroupEnd->next,k);
+            if(kthNode==NULL)break; // no nodes left
+
+            // mark the pointers
+            ListNode* groupStart = prevGroupEnd->next;
+            ListNode * nextGroupStart = kthNode->next;
+            // break the node
+            kthNode->next = NULL;
+
+            //connect the links
+            prevGroupEnd->next = reversekNode(groupStart);
+            groupStart->next = nextGroupStart;
+
+            // Move prevGroupEnd to the end of the reversed group
+            prevGroupEnd = groupStart;
+        }
+        return dummy->next;
     }
-};
-
-// Recursive
-    // 	ListNode* reverseKGroup(ListNode* head, int k) {
-    //     ListNode* cursor = head;
-    //     for(int i = 0; i < k; i++){
-    //         if(cursor == nullptr) return head;
-    //         cursor = cursor->next;
-    //     }
-    //     ListNode* curr = head;
-    //     ListNode* prev = nullptr;
-    //     ListNode* nxt = nullptr;
-    //     for(int i = 0; i < k; i++){
-    //         nxt = curr->next;
-    //         curr->next = prev;
-    //         prev = curr;
-    //         curr = nxt;
-    //     }
-    //     head->next = reverseKGroup(curr, k);
-    //     return prev;
-    // }
-
-// Iterative
-	// ListNode* reverseKGroup(ListNode* head, int k) {
-    //     ListNode* dummy = new ListNode(0);
-    //     dummy->next = head;
-    //     ListNode* before = dummy;
-    //     ListNode* after = head;
-    //     ListNode* curr = nullptr;
-    //     ListNode* prev = nullptr;
-    //     ListNode* nxt = nullptr;
-    //     while(true){
-    //         ListNode* cursor = after;
-    //         for(int i = 0; i < k; i++){
-    //             if(cursor == nullptr) return dummy->next;
-    //             cursor = cursor->next;
-    //         }
-    //         curr = after;
-    //         prev = before;
-    //         for(int i = 0; i < k; i++){
-    //             nxt = curr->next;
-    //             curr->next = prev;
-    //             prev = curr;
-    //             curr = nxt;
-    //         }
-    //         after->next = curr;
-    //         before->next = prev;
-    //         before = after;
-    //         after = curr;
-    //     }
-    // }
+};  
