@@ -7,7 +7,7 @@ public:
         if(dp[i]!=-1)return dp[i];
         int ans = 1+solve(s,i+1,dict);
         for(auto &w : dict){
-            if(s.substr(i,w.size())==w){
+            if(s.compare(i,w.size(),w)==0){
                 ans = min(ans,solve(s,i+w.size(),dict));
             }
         }
