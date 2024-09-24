@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0072-edit-distance) |
