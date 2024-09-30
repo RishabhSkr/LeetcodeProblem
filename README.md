@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0229-majority-element-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0229-majority-element-ii) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0132-palindrome-partitioning-ii) |
