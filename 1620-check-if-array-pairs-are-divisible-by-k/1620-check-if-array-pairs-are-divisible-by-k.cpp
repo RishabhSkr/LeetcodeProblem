@@ -1,16 +1,17 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
-        vector<int>counts(k,0);// [0,k-1] remainder freq store
-        int ans =0;
-        for(auto num : arr){
-            int rem = (num%k+k)%k; //handling -ve add +k then take mod
-            counts[rem]++;    
-        }
+      // sum => (arr[i]+arr[j])%k==0  n/2 pairs from arr 
+      int n = arr.size();
+      vector<int>freq(k,0);
+      for(int i =0;i<n;++i){
+        int rem = (arr[i]%k+k)%k;
+        freq[rem]++;
+      }
         for(int i =1;i<k;++i){
-            if(counts[i]!=counts[k-i])return false;
+        if(freq[i]!=freq[k-i])return false;
+      }
+      return freq[0]%2==0;
 
-        }
-        return counts[0]%2==0;
     }
 };
