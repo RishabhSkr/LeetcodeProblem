@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1129-longest-string-chain](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0664-strange-printer) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Interactive
 |  |
