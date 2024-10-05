@@ -19,13 +19,19 @@ public:
         int n2 = s2.size();
 
         if(n1>n2)return false;
-        
-        sort(s1.begin(),s1.end());
-
-        for(int ind = 0;ind<n2;++ind){
-           string str = s2.substr(ind,n1);
-           sort(str.begin(),str.end());
-            if(s1==str)return true;    
+        // approach Optimal:sliding window
+        int i =0,j = 0;
+        vector<int>mp1(26,0);
+        vector<int>mp2(26,0);
+        for(auto x : s1)mp1[x-'a']++;
+        while(j<n2){
+            mp2[s2[j]-'a']++;
+            while(j-i+1>n1){
+                mp2[s2[i]-'a']--;
+                i++;
+            }
+            if(j-i+1==n1 && mp1==mp2)return true;
+            j++;
         }
        return false;
     }
