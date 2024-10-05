@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0203-remove-linked-list-elements) |
 | [0432-all-oone-data-structure](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0859-design-circular-deque) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0203-remove-linked-list-elements) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1197-parsing-a-boolean-expression) |
