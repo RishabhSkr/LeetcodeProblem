@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Graph
 |  |
 | ------- |
@@ -655,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -671,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Bitmask
 |  |
 | ------- |
@@ -721,4 +728,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1002-maximum-width-ramp) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
