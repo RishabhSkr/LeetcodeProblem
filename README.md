@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2444-longest-ideal-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2444-longest-ideal-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2755-extra-characters-in-a-string) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Greedy
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -754,4 +756,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 <!---LeetCode Topics End-->
