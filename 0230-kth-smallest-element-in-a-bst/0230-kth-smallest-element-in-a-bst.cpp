@@ -11,16 +11,24 @@
  */
 class Solution {
 public:
-    void solve(TreeNode * root,int k,vector<int>&kth){
-        if(root==NULL)return ;
-        if(kth.size()==k)return;
-        solve(root->left,k,kth);
-        kth.push_back(root->val);
-        solve(root->right,k,kth);
+     priority_queue<int> pq;  // Max-heap to store the k smallest elements
+    void solve(TreeNode *root, int k) {
+        if (root == NULL) return;
+        
+        // Push current node value into the priority queue
+        pq.push(root->val);
+        
+        // If the size of the priority queue exceeds k, remove the largest element
+        if (pq.size() > k) {
+            pq.pop();
+        }
+
+        // Recurse for the left and right subtrees
+        solve(root->left, k);
+        solve(root->right, k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>kth;
-        solve(root,k,kth);
-        return kth[k-1];
-    }   
+        solve(root,k);
+        return pq.top();
+    }
 };
