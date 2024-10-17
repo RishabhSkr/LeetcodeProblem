@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 ## Two Pointers
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3195-separate-black-and-white-balls) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2444-longest-ideal-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2444-longest-ideal-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2755-extra-characters-in-a-string) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Greedy
 |  |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Stack
 |  |
 | ------- |
