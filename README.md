@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0652-find-duplicate-subtrees) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0789-kth-largest-element-in-a-stream) |
