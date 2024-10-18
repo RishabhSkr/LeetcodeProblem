@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0731-my-calendar-ii) |
 | [0854-making-a-large-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0854-making-a-large-island) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1435-xor-queries-of-a-subarray) |
