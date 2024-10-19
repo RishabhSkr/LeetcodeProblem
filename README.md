@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
 | [1195-distribute-candies-to-people](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
