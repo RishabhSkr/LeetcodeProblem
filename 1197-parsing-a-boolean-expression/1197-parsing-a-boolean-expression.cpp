@@ -1,5 +1,6 @@
 class Solution {
 public:
+
 bool parse_or(vector<int>&res){
     bool ans = res[0];
     for(auto x : res){
@@ -43,7 +44,7 @@ bool parse_or(vector<int>&res){
                     if(ans)st.push('t');
                     else st.push('f');
                 }
-                else if(c=='!'){
+                else if(c=='!'){  // not single res dega if not false h to true or true h to false
                     if(res[0]==0)st.push('t');
                     else st.push('f');
                 }
@@ -55,3 +56,4 @@ bool parse_or(vector<int>&res){
         return st.top()=='t';      
     }
 };
+
