@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1720-crawler-log-folder) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1923-sentence-similarity-iii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2586-longest-square-streak-in-an-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2444-longest-ideal-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2444-longest-ideal-subsequence) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2586-longest-square-streak-in-an-array) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
