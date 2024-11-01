@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0729-my-calendar-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0374-guess-number-higher-or-lower) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0731-my-calendar-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0664-strange-printer) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1121-partition-array-for-maximum-sum](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1129-longest-string-chain) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Interactive
 |  |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -802,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Ordered Set
 |  |
 | ------- |
