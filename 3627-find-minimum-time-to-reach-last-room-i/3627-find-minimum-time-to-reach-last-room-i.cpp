@@ -17,7 +17,6 @@ public:
 
         while(!pq.empty()){
             auto top = pq.top();
-            // cout<<top[0]<<endl;
             pq.pop();
             int curr = top[0];
             int i = top[1];
