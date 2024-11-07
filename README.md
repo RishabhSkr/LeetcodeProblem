@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0264-ugly-number-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0203-remove-linked-list-elements) |
 | [0432-all-oone-data-structure](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0725-split-linked-list-in-parts) |
