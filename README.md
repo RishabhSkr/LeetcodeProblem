@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
