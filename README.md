@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2716-prime-subtraction-operation) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Sorting
 |  |
 | ------- |
