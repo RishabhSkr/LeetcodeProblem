@@ -4,25 +4,15 @@ public:
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
         int n = nums.size();
 
-        for(int i =0;i<=n-2*k;++i){
-            bool flag = true;
+        vector<int>arr(n+1,1);
+        for(int i =n-2;i>=0;--i){
+            if(nums[i+1]>nums[i])arr[i]=arr[i+1]+1;
+            else arr[i]=1;
+        }
 
-            for(int j = i;j<i+k-1;++j){
-                if(nums[j+1]<=nums[j]){
-                    flag = false;
-                    break;
-                }
-            }
-            if(flag){
-                bool flag2 = true;
-                for(int j= i+k;j<i+2*k-1;++j){
-                  
-                    if(nums[j+1]<=nums[j]){
-                        flag2 = false;
-                        break;
-                    }
-                }
-                if(flag2)return true;
+        for(int i = 0;i<=n-2*k;++i){
+            if(arr[i]>=k && arr[i+k]>=k){
+                    return true;
             }
         }
 
