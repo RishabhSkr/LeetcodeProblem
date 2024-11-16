@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3583-sorted-gcd-pair-queries) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Interactive
 |  |
 | ------- |
