@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2803-modify-graph-edge-weights](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
