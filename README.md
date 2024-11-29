@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0208-implement-trie-prefix-tree) |
 | [0307-range-sum-query-mutable](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0432-all-oone-data-structure) |
