@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0085-maximal-rectangle) |
 | [0854-making-a-large-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0155-min-stack) |
@@ -906,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Combinatorics
