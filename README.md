@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3486-count-the-number-of-good-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3486-count-the-number-of-good-nodes) |
 ## Depth-First Search
 |  |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3486-count-the-number-of-good-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3486-count-the-number-of-good-nodes) |
 ## Binary Tree
 |  |
