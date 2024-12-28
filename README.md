@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0877-shortest-path-visiting-all-nodes) |
