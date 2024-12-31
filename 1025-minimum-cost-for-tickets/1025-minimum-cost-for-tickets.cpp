@@ -1,28 +1,25 @@
 class Solution {
 public:
-    
-    vector<int>dp;
-    unordered_map<int,int>mp;
-  int solve(int day, vector<int>& days, vector<int>& cost) {
-    if(day>365)return 0;
-    if(dp[day]!=-1)return dp[day];
-    if(mp.count(day)==0)return dp[day]=solve(day+1,days,cost);
-    int cost1Day = cost[0] + solve(day+1, days, cost); 
-
-    int cost7Day = cost[1] + solve(day+7, days, cost);
-
-    int cost30Day = cost[2] + solve(day+30, days, cost);
-
-    return dp[day]=min({cost1Day, cost7Day, cost30Day});
-}
-
     int mincostTickets(vector<int>& days, vector<int>& costs) {
         // state curr idx store min cost store kro
-       // Mark travel days in map
-        for(int day : days) {
-            mp[day] = 1;  // value doesn't matter, we just need to know if day exists
+        int lastDay = days.back();
+        vector<int> dp(lastDay + 1, 0);
+        int j = 0;
+        for (int i = 1; i <= lastDay; ++i) {
+            if (i != days[j]) {
+                dp[i] = dp[i - 1];
+                continue;
+            }
+
+            // prev1
+            dp[i]=costs[0]+ dp[i-1];
+            // 7day
+            dp[i] =min(dp[i],costs[1]+(i>=7?dp[i-7]:0));
+             // 30day
+            dp[i] =min(dp[i],costs[2]+(i>=30?dp[i-30]:0));
+            j++;
         }
-        dp.resize(366,-1);
-        return solve(days[0], days, costs);
+        return dp[lastDay];
+
     }
 };
