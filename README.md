@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3451-string-compression-iii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
@@ -946,17 +949,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Ordered Set
 |  |
 | ------- |
