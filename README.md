@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2444-longest-ideal-subsequence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2444-longest-ideal-subsequence) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2580-circular-sentence) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
