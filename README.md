@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1511-count-number-of-teams) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1559-cherry-pickup-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2803-modify-graph-edge-weights) |
@@ -821,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2803-modify-graph-edge-weights) |
