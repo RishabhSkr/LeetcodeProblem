@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2690-house-robber-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2690-house-robber-iv](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2716-prime-subtraction-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
