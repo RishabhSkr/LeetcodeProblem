@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/2846-robot-collisions) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RishabhSkr/LeetcodeProblem/tree/master/3309-count-prefix-and-suffix-pairs-i) |
